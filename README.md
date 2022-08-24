@@ -7,3 +7,7 @@ By the end of this video, you will have a strong understanding of basic React wo
 
 Setup:
 - run ```npm i && npm start```
+
+
+## App ScreenShot 
+![image](https://user-images.githubusercontent.com/96800858/186529660-1213e914-8d24-4e55-bff5-8be366147344.png)
